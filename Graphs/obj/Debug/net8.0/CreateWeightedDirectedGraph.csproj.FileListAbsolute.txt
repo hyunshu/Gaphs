@@ -1,0 +1,14 @@
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/bin/Debug/net8.0/CreateWeightedDirectedGraph
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/bin/Debug/net8.0/CreateWeightedDirectedGraph.deps.json
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/bin/Debug/net8.0/CreateWeightedDirectedGraph.runtimeconfig.json
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/bin/Debug/net8.0/CreateWeightedDirectedGraph.dll
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/bin/Debug/net8.0/CreateWeightedDirectedGraph.pdb
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.AssemblyInfoInputs.cache
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.AssemblyInfo.cs
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.csproj.CoreCompileInputs.cache
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.dll
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/refint/CreateWeightedDirectedGraph.dll
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.pdb
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/CreateWeightedDirectedGraph.genruntimeconfig.cache
+/Users/hyunshu/Desktop/BadBerry/ProjectTestingBin/CSharp/CreateWeightedDirectedGraph/obj/Debug/net8.0/ref/CreateWeightedDirectedGraph.dll

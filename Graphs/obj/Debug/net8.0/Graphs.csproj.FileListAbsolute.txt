@@ -1,0 +1,14 @@
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/bin/Debug/net8.0/Graphs
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/bin/Debug/net8.0/Graphs.deps.json
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/bin/Debug/net8.0/Graphs.runtimeconfig.json
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/bin/Debug/net8.0/Graphs.dll
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/bin/Debug/net8.0/Graphs.pdb
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.AssemblyInfoInputs.cache
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.AssemblyInfo.cs
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.dll
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/refint/Graphs.dll
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.pdb
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/Graphs.genruntimeconfig.cache
+/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/Debug/net8.0/ref/Graphs.dll
