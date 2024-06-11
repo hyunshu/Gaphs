@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/Graphs.csproj",
+      "projectUniqueName": "/Users/hyunshu/Documents/GitHub/Gaphs/Graphs/Graphs.csproj",
       "projectName": "Graphs",
-      "projectPath": "/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/Graphs.csproj",
+      "projectPath": "/Users/hyunshu/Documents/GitHub/Gaphs/Graphs/Graphs.csproj",
       "packagesPath": "/Users/hyunshu/.nuget/packages/",
-      "outputPath": "/Users/hyunshu/Desktop/ShuBerry/ProjectTestingBin/CSharp/Graphs/obj/",
+      "outputPath": "/Users/hyunshu/Documents/GitHub/Gaphs/Graphs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hyunshu/.nuget/NuGet/NuGet.Config"
